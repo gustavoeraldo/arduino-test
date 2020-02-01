@@ -2,15 +2,24 @@
 	<center>
 		<form><br>
 			O seu nome: 
-			<input type="email" name="EMAIL" placeholder="digite aqui..." required /><br>
+			<input type="text" name="EMAIL" placeholder="digite aqui..." required /><br>
 			<br>
+			
 			O seu melhor e-mail: 
 			<input type="email" name="EMAIL" placeholder="contato@paupratodaobra.com" required /><br>
 			<br>
+			
 			O seu telefone: 
-			<input type="email" name="EMAIL" placeholder="(xx) 9 9999-9999" required /><br>			
+			<input type="tel" name="EMAIL" placeholder="(xx) 9 9999-9999" required /><br>		
 			<br>
-			<input type="submit" value="enviar" />
+			
+			<input id="BotaoEnvia" onclick="myFunction" type="submit" value="enviar" />
 		</form>
 	</center>
+
+	<script>
+		function myFunction() {
+		  document.getElementById("BotaoEnvia").style.color = "blue";
+		}
+	</script>
 </div>
