@@ -6,11 +6,11 @@
 ## Pendências
 
 
-- [] Mudar a interface e habilitar função de setar IP fixo.
+- [ ] Mudar a interface e habilitar função de setar IP fixo.
 
-- [] Comunicação por I2C.
+- [ ] Comunicação por I2C.
 
-- [] Redirecionamento de IP.
+- [ ] Redirecionamento de IP.
 
-- [] Funcionamento de envio de dados via L3 em modo offline.
+- [ ] Funcionamento de envio de dados via L3 em modo offline.
 
