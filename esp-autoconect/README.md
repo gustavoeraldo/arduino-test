@@ -5,7 +5,7 @@
 
 ## Pendências
 
-<div>
+<p>
   <input type="checkbox"/>
   <label>Mudar a interface e habilitar função de setar IP fixo </label>
   
@@ -17,4 +17,4 @@
   
   <input type="checkbox"/>
   <label>Funcionamento de envio de dados via L3 em modo offline</label>
-</div>
+</p>
