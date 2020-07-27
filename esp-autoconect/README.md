@@ -5,10 +5,9 @@
 
 ## Pendências
 
-
 - [ ] Mudar a interface e habilitar função de setar IP fixo.
 
-- [ ] Comunicação por I2C.
+- [ ] Comunicação com dispositivo por I2C.
 
 - [ ] Redirecionamento de IP.
 
